@@ -1,0 +1,3 @@
+# Example Summary
+
+This is an example summary for a Markdown file. It provides a brief overview of the content that will be covered in the document. The summary should be concise and capture the main points or topics that will be discussed. It serves as a preview for readers, giving them an idea of what to expect when they dive into the document. Remember to keep the summary clear and informative, highlighting the key aspects of the content.
